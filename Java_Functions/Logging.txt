@@ -1,0 +1,6 @@
+05/31/2019 16:32:15 - INFO: Static part
+05/31/2019 16:32:16 - INFO: Object part
+05/31/2019 16:32:17 - INFO: Static part Array
+05/31/2019 16:35:43 - INFO: Static part
+05/31/2019 16:35:44 - INFO: Object part
+05/31/2019 16:35:45 - INFO: Static part Array
